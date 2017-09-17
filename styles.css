@@ -1,0 +1,59 @@
+/* add your CSS here */
+body {
+  font-family: georgia, sans-serif;
+}
+
+.main {
+  width: 450px;
+  height:auto;
+  background:#ffe0bd;
+  border: solid #ccc 1px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px rgba(163,163,163,0.7);
+  padding: auto;
+  margin: auto;
+}
+
+img {
+  display: block;
+  margin:auto;
+  border-radius: 5px;
+}
+
+.animal{
+  width: 450px;
+  border: solid #ccc 1px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.kangroo {
+  font-style: italic;
+  align-content: justify;
+}
+
+h3 {
+  padding: 0 20px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  padding: 0 20px;
+  align-content: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0 10px;
+}
+
+li {
+  font-style: italic;
+  text-align: justify-all;
+}
+
+span {
+  font-style: normal;
+  font-weight: bold;
+}
